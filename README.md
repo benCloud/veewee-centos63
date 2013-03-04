@@ -7,9 +7,9 @@
 
 ## Build
 
-Run `./build.sh` to generate the box.
+Run `./build.sh` to generate trystack box.
 
 Once the box has been built you can add it to Vagrant with the following:
 
-    $ vagrant box add 'centos63' 'centos63.box'
+    $ vagrant box add 'trystack' 'trystack.box'
 
